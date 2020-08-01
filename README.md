@@ -3,3 +3,7 @@ There is an interest in having data helping to locate where to recycle items not
 
 <Draft:  API to query available data>
 
+<Draft of the data>
+https://docs.google.com/spreadsheets/d/1aw7XEz559ZgbqUofeArpLGzf86U_mFWQ4gm6dq-Kha8/edit?usp=sharing
+<Data>
+
